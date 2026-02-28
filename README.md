@@ -466,4 +466,8 @@ Follow these best practices:
 
 ---
 
+<<<<<<< HEAD
 End of Git Practical Guide 🚀
+=======
+End of Git Practical Guide 🚀
+>>>>>>> b85d014 (TP2-303 Updated README and add detail in README.md on feature/third branch)
